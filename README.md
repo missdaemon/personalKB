@@ -1,3 +1,3 @@
 ## Personal KB ##
- - [Install](/install/tvdeb.md)
+ - [Install](https://github.com/shelsxacm/personalKB/blob/master/Install/tvdeb.md)
  - Customize
