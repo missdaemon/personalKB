@@ -18,4 +18,4 @@ How to Install TeamViewer on your Debian 64 bits. :blue_heart:
 
 <pre><code>dpkg -i teamviewer_*.deb</code></pre> 
 
- - That's it! :simple_smile:
+ - That's it! :sparkling_heart:
