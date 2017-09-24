@@ -1,10 +1,8 @@
 ## PersonalKB
 
 
-How to Install TeamViewer on your Debian 64 bits.
+How to Install TeamViewer on your Debian 64 bits. :blue_heart:
 -------------------------------------------------
-----------
-
 
  - Get the [team viewer.deb](https://download.teamviewer.com/download/teamviewer_i386.deb) from the official page.
  - On the Downloads directory or whatever directory you saved the .deb
