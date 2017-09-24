@@ -1,6 +1,3 @@
-## PersonalKB
-
-
 How to Install TeamViewer on your Debian 64 bits. :blue_heart:
 -------------------------------------------------
 
